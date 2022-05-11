@@ -1,7 +1,7 @@
 
 # Adxl355-Arduino
 
-A comprehensive Adxl355 driver library for Arduino
+A simple comprehensive Adxl355 wrapper library for Arduino
 
 ## Example 
 
