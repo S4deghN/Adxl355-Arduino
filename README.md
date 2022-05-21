@@ -1,7 +1,7 @@
 
 # Adxl355-Arduino
 
-A simple comprehensive Adxl355 wrapper library for Arduino
+A simple comprehensive Adxl355 wrapper library for Arduino framework
 
 ## Example 
 
@@ -50,11 +50,12 @@ or download zip file and either unzip to `libraries` or inside Arduino IDE navig
 
 It's a tiny only header library and you could also just grab the .h file and put it into your project folder.
 
-## Tested
+## Supported platforms
 
-|Borad|Core lib|Works|
-|:-|:-|:-|
-|Blue Pill|[STM32duino](https://github.com/stm32duino/Arduino_Core_STM32)|Yes|
+|Platform|Borad|Core lib|Tested|
+|:-|:-|:-|:-|
+|ST STM32|Blue Pill|[STM32duino](https://github.com/stm32duino/Arduino_Core_STM32)|Yes|
+|Atmel AVR|Arduino Uno|[Arduino AVR](https://github.com/arduino/ArduinoCore-avr)|No|
 
 ## Contribution
 
